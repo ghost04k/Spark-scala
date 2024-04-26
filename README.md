@@ -18,4 +18,4 @@ Ce projet vise à analyser des fichiers texte contenant des données sur des liv
 
 - Assurez-vous que votre environnement Scala dispose des dépendances nécessaires pour exécuter le script.
 - Les statistiques calculées peuvent être utiles pour l'analyse de la longueur des livres ou pour d'autres études textuelles.
-- Par souci de ne pas pouvoir utiliser un bibliothéque nous permettant d'afficher les visualisations, nous l'avons réalisé avec databricks. Dans le fichier zippé viz.zip, vous trouverez le notebook visualisation.scala où est renseigné le code, les captures d'écrans de graphes.
+- Par souci de ne pas pouvoir utiliser un bibliothéque nous permettant d'afficher les visualisations, nous l'avons réalisé avec databricks. Dans le fichier zippé viz.zip, vous trouverez le notebook visualisation.scala où est renseigné le code et les captures d'écrans de graphes.
